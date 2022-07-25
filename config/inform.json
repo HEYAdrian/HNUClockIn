@@ -1,18 +1,18 @@
 {
   "hnu_account": {
-    "id": "学号",
-    "password": "个人门户密码"
+    "id": "202018210105",
+    "password": "1407Wzk666"
   },
   "baidu_ai_account": {
-    "app_id": "",
-    "api_key": "",
-    "secret_key": ""
+    "app_id": "26793983",
+    "api_key": "j7m51W4dNr1wXTWWMhILAKFW",
+    "secret_key": "G6mUe0LQ3geEe9AYO5T7mwnXvpRrf9da"
   },
   "clockin_inform": {
-    "省": "",
-    "市": "",
-    "县": "",
-    "在家详细地址": "",
-    "在校详细地址": ""
+    "省": "广东省",
+    "市": "深圳市",
+    "县": "宝安区",
+    "在家详细地址": "sj",
+    "在校详细地址": "aj"
   }
 }
