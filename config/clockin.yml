@@ -5,7 +5,7 @@ on:
     
   schedule:
     # minute hour(UTC) day month weekday(SUN-SAT)
-    - cron: '20,50 16,19,23 * * *'
+    - cron: '25,50 18,21,23 * * *'
 
 jobs:
   build:
@@ -25,4 +25,4 @@ jobs:
       - name: Run main.py
         run: |
           python config/config.py
-          python main.py --at_home 0
+          python main.py --at_home 0 --login_max_try 10 --clockin_max_try 8
